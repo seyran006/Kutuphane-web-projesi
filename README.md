@@ -5,6 +5,7 @@ Sistem kitap yönetiminden üyelik işlemlerine, kitap ödünç alma mekanizmas�
 süreçleri dijitalleştirmek üzere tasarlanmıştır.
 
 🌍 **Canlı Önizleme / Live Demo:** https://ybs7grup.page.gd
+<img width="1917" height="885" alt="image" src="https://github.com/user-attachments/assets/b200df55-a166-4c75-9b22-07decf337951" />
 
 ---
 
