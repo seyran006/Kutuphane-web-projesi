@@ -12,7 +12,8 @@ süreçleri dijitalleştirmek üzere tasarlanmıştır.
 
 <img width="1894" height="887" alt="image" src="https://github.com/user-attachments/assets/46d170ff-8e09-434e-be1c-3b4048bb6eaa" />
 
-![Uploading image.png…]()
+<img width="1858" height="837" alt="image" src="https://github.com/user-attachments/assets/8042dbbe-6f84-4a26-b724-efecc3071e5a" />
+
 
 
 
